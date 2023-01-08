@@ -1,7 +1,7 @@
-function [x,y] = polar_to_cartesian(r,theta)
+function [a,c] = circle_geom(r)
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
-x = r*cos(theta);
-y = r*sin(theta);
+a = pi*r^2;
+c = 2*pi*r;
 end
 
