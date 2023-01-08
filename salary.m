@@ -1,0 +1,1 @@
+ salary_per_week = (hours_per_week)*(pay_per_hour)
