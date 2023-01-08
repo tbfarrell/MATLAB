@@ -1,0 +1,1 @@
+is_weekend=(day==1||day==7)

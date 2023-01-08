@@ -1,0 +1,1 @@
+is_equal=(the_char==char(the_num+64))||(the_char==char(the_num+96))
